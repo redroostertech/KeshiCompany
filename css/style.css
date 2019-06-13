@@ -734,7 +734,7 @@ a {
   content: "";
   width: 60%;
   height: 20px;
-  background: #f03a37;
+  background: #000000;
   position: absolute;
   right: 0;
   top: 0;
@@ -744,7 +744,7 @@ a {
   content: "";
   width: 60%;
   height: 70px;
-  background: #f03a37;
+  background: #000000;
   position: absolute;
   left: 40px;
   bottom: 0;
@@ -1060,7 +1060,7 @@ a {
   left: 0;
   top: 0;
   z-index: 1;
-  background-size: cover;
+  background-size: auto;
   background-position: center;
   display: flex;
   flex-wrap: wrap;
@@ -1442,7 +1442,7 @@ main {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  background: #878d94;
+  background: #000000;
   text-align: center;
 }
 .icon-content-block * {
