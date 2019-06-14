@@ -740,7 +740,7 @@ a {
   top: 0;
   z-index: 2;
 }
-.header:after {
+/* .header:after {
   content: "";
   width: 60%;
   height: 70px;
@@ -749,7 +749,7 @@ a {
   left: 40px;
   bottom: 0;
   z-index: 2;
-}
+} */
 .header h5 {
   font-size: 36px;
   color: #fff;
