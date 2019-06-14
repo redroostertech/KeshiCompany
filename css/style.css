@@ -1075,8 +1075,18 @@ a {
   position: absolute;
   left: 0;
   top: 0;
-  background: url(../images/hero-lines-bg.png) center;
-  opacity: 0.2;
+  /* background: linear-gradient(0deg,rgba(0,0,0,1.0),rgba(0,0,0,1.0)); */
+  opacity: 0.9;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 10;
+  background-color: rgba(0,0,0,0.5);
 }
 
 main {
