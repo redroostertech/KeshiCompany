@@ -931,7 +931,7 @@ a {
   transform: translateY(50px);
 }
 .header .swiper-carousel .swiper-slide .inner h2 {
-  font-size: 6vw;
+  font-size: 4vw;
 }
 .header .swiper-carousel .swiper-slide-active {
   margin: 0;
@@ -1175,7 +1175,7 @@ main {
   padding: 0 140px;
 }
 .page-header .inner-content .inner h2 {
-  font-size: 8vw;
+  font-size: 6vw;
   color: #fff;
   display: block;
   font-weight: 800;
@@ -2212,7 +2212,7 @@ main {
   }
 
   .page-header .inner-content .inner h2 {
-    font-size: 12vw;
+    font-size: 9vw;
   }
 
   .text-content-block h2 {
