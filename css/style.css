@@ -781,7 +781,7 @@ a {
   z-index: -1;
 }
 .header h2 {
-  font-size: 8vw;
+  font-size: 10vw;
   color: #fff;
   font-weight: 800;
   margin-bottom: 40px;
@@ -2311,7 +2311,7 @@ main {
   }
 
   .header .swiper-container .swiper-slide h2 {
-    font-size: 40px;
+    font-size: 32px;
   }
 
   .header .swiper-container .swiper-pagination-fraction {
